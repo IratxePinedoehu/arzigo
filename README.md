@@ -22,3 +22,5 @@ article_title
 article_entity_list
 
 interaction_weight
+
+The dataset is divided in 3 different files and has more than 340.000 interactions.
