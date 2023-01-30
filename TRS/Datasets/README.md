@@ -1,3 +1,6 @@
+
+In this work, we try to shed light on how to overcome the concept drift problem by analyzing different state of the art algorithms that can manage the temporal dimension in different ways, as well as present a new hybrid algorithm called NN-Profile. The algorithms have been tested on two synthetic datasets that represent two different scenarios, measuring their performance and execution time.
+
 The core of our data generation process is a multidisciplinary repository managed by a search engine, which contains papers associated with different 
 scientific fields, as computer science, neuroscience or microbiology. The repository is based on Semantic Scholar Open Research Corpus, developed by
 Semantic Scholar. It is a scalable system for organizing published scientific literature in an heterogeneous graph, to facilitate manipulation and 
